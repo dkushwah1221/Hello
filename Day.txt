@@ -4,4 +4,5 @@ Tuesday
 Wednesday
 Thusday
 Friday
+Saturday
 Sunday
